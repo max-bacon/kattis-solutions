@@ -1,0 +1,7 @@
+.alpackages
+.vscode
+*.app
+*.pdb
+*.exe
+*.ilk
+*.obj
