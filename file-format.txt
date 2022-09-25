@@ -1,2 +1,2 @@
 // https://open.kattis.com/problems/INSERT
-// Difficulty: 0.0 (Medium)
+// Difficulty: 0.0 ()
