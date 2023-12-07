@@ -6,3 +6,5 @@
 *.ilk
 *.obj
 *.class
+
+**/test.py
